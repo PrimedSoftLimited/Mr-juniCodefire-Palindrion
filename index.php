@@ -47,7 +47,9 @@ if(isset($_GET['submit'])) {
 }else{
     echo "insert a string to check";
 }
-/*function Palindrome_first_way($number){   
+/*
+Another Work
+function Palindrome_first_way($number){   
     $temp = $number;   
     $new = 0;   
     while (floor($temp)) {   
@@ -72,8 +74,6 @@ else {
 echo "Not a Palindrome <br>";   
 } 
   */
-  ////////////////////////////////////////
 
-i
 ?> 
 
